@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://ibb.co.com/5XbQ3Yx9" alt="MAMUN X BOT" height="300"> 
+    <img src="https://github.com/abdullaalm658/MAMUN-X-BOT-4V/blob/main/assets/bot_image.png" alt="MAMUN X BOT" height="300"> 
   </a> 
 </div>
 
