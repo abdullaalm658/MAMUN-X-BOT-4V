@@ -24,7 +24,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 ---
 <div>
   <a href="https://www.thordata.com/products/residential-proxies?ls=YouTube&lk=Knightbot" target="_blank">
-    <img src="assets/thor.png" alt="ThorData Proxies" width="100%" />
+    <img src="https://ibb.co.com/5XbQ3Yx9" alt="ThorData Proxies" width="100%" />
   </a>
 </div>
 
